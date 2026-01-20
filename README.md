@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! I'm temhemc 👋
 
-<!--
-**temhemc/temhemc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![My Stats](https://github-readme-stats.vercel.app/api?username=temhemc&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temhemc&layout=compact&theme=vision-friendly-dark)
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on my **Game Project**.
+- 🌱 I’m currently learning new technologies and game development.
+- 👯 I’m looking to collaborate on **Open Source** projects.
+
+---
+
+### 🛠️ Tech Stack
+- **Game Dev:** C#, Unity / Unreal Engine (english german turkish )
+- **Tools:** Git, GitHub, VS Code

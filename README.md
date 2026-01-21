@@ -18,3 +18,9 @@
 ### 🛠️ Tech Stack
 - **Game Dev:** C#, Unity / Unreal Engine (english german turkish )
 - **Tools:** Git, GitHub, VS Code
+
+---
+### 🛠️ Tools I Use
+- **Editor:** VS Code
+- **Version Control:** Git & GitHub
+- **Learning:** Game Development & Open Source

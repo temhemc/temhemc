@@ -1,4 +1,5 @@
 # Hi there! I'm temhemc 👋
+I am a passionate developer working on exciting game projects and contributing to the open-source community.
 
 ### 📊 GitHub Stats
 

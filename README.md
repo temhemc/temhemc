@@ -3,8 +3,7 @@ I am a passionate developer working on exciting game projects and contributing t
 
 ### 📊 GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=temhemc&show_icons=true&theme=radical)
-
+![My Stats](https://github-readme-stats.vercel.app/api?username=temhemc&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temhemc&layout=compact&theme=vision-friendly-dark)
 
 ---

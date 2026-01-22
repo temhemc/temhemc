@@ -48,6 +48,7 @@ Level Design
 ### 💻 Hardware & Setup
 İntel Core ultra seri 3
 
+
 ### 🎨 Design Tools
 "Photoshop"
 "Blender"
@@ -58,3 +59,4 @@ Unreal Engine
 
 ### 🌐 Web Development
 "HTML5 & CSS3"
+"JavaScript (ES6+)"

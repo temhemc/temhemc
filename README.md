@@ -66,3 +66,7 @@ Unreal Engine
 
 ### 🗄️ Databases
 "MongoDB"
+
+
+### 🚀 Deployment
+"Netlify"

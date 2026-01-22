@@ -25,4 +25,4 @@ I am a passionate developer working on exciting game projects and contributing t
 - **Version Control:** Git & GitHub
 - **Learning:** Game Development & Open Source
 
--![Snake animation](https://github-readme-snake.azurewebsites.net/github-contribution-grid-snake.svg)
+-![Profile Views](https://komarev.com/ghpvc/?username=temhemc&label=Profile%20Views&color=green&style=flat-square)

@@ -10,7 +10,7 @@ I am a passionate developer working on exciting game projects and contributing t
 
 ### 🚀 About Me
 - 🔭 I’m currently working on my **Game Project**.
-- 🌱 I’m currently learning new technologies and game development.
+- 🌱 I’m currently learning new technologies and game development
 - 👯 I’m looking to collaborate on **Open Source** projects.
 
 ---

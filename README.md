@@ -46,3 +46,4 @@ Game Design
 Level Design
 
 ### 💻 Hardware & Setup
+İntel Core ultra seri 3

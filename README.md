@@ -49,4 +49,6 @@ Level Design
 İntel Core ultra seri 3
 
 ### 🎨 Design Tools
-photoshop
+"Photoshop"
+"Blender"
+

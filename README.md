@@ -31,7 +31,7 @@ konya selçuk university computer programer
 - **Version Control:** Git & GitHub
 - **Learning:** Game Development & Open Source
 
--![Profile Views](https://komarev.com/ghpvc/?username=temhemc&label=Profile%20Views&color=green&style=flat-squat
+-![Profile Views](https://komarev.com/ghpvc/?username=temhemc&label=Profile%20Views&color=green&style=flat-square)
 
 ### 🏆 Certificates
 

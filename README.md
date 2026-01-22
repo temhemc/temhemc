@@ -52,3 +52,5 @@ Level Design
 "Photoshop"
 "Blender"
 "Figma"
+
+### 📚 Currently Learning

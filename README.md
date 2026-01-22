@@ -35,3 +35,4 @@ konya selçuk university computer programer
 
 ### 🏆 Certificates
 
+### 🎯 Goals for 2026

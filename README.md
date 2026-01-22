@@ -24,3 +24,5 @@ I am a passionate developer working on exciting game projects and contributing t
 - **Editor:** VS Code
 - **Version Control:** Git & GitHub
 - **Learning:** Game Development & Open Source
+
+-![Snake animation](https://github-readme-snake.azurewebsites.net/github-contribution-grid-snake.svg)

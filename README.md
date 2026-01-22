@@ -44,3 +44,5 @@ Unity Engine
 Game Design
 
 Level Design
+
+### 💻 Hardware & Setup

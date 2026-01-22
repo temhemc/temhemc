@@ -4,14 +4,6 @@ I am a passionate developer working on exciting game projects and contributing t
 ### 📫 How to reach me
 funstarpark@gmail.com
 
-
-
-### 🎯 Goals for 2026
-
-
-### 🏆 Certificates
-
-
 ### 🎓 Education
 konya selçuk university computer programer
 
@@ -39,4 +31,7 @@ konya selçuk university computer programer
 - **Version Control:** Git & GitHub
 - **Learning:** Game Development & Open Source
 
--![Profile Views](https://komarev.com/ghpvc/?username=temhemc&label=Profile%20Views&color=green&style=flat-square)
+-![Profile Views](https://komarev.com/ghpvc/?username=temhemc&label=Profile%20Views&color=green&style=flat-squat
+
+### 🏆 Certificates
+

@@ -47,3 +47,6 @@ Level Design
 
 ### 💻 Hardware & Setup
 İntel Core ultra seri 3
+
+### 🎨 Design Tools
+photoshop

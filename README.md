@@ -1,6 +1,9 @@
 # Hi there! I'm temhemc 👋
 I am a passionate developer working on exciting game projects and contributing to the open-source community.
 
+### 🎯 Goals for 2026
+
+
 ### 🏆 Certificates
 
 

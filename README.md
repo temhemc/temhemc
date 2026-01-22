@@ -2,7 +2,7 @@
 I am a passionate developer working on exciting game projects and contributing to the open-source community.
 
 ### 🎓 Education
-
+konya selçuk university computer programer
 
 ### 📊 GitHub Stats
 
